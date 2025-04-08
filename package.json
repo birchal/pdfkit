@@ -18,7 +18,7 @@
   },
   "license": "MIT",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/Simpleprax"
+    "registry": "https://npm.pkg.github.com/birchal"
   },
   "repository": {
     "type": "git",
