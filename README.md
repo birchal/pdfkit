@@ -1,6 +1,6 @@
 # PDFKit
 
-A JavaScript PDF generation library for Node and the browser.
+A JavaScript PDF generation library for Node and the browser. Forked for Birchal to allow further modification as the library is not very actively maintained.
 
 ## Description
 

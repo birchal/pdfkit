@@ -1,6 +1,6 @@
 {
   "name": "@simpleprax/pdfkit",
-  "description": "A PDF generation library for Node.js (With some Simpleprax fixes)",
+  "description": "A PDF generation library for Node.js (With some Simpleprax fixes + forked for Birchal)",
   "keywords": [
     "pdf",
     "pdf writer",
@@ -9,7 +9,7 @@
     "document",
     "vector"
   ],
-  "version": "0.12.4-custom",
+  "version": "0.12.4-custom-birchal",
   "homepage": "http://pdfkit.org/",
   "author": {
     "name": "Devon Govett",
@@ -22,10 +22,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Simpleprax/pdfkit.git",
-    "directory": "@Simpleprax/pdfkit"
+    "url": "https://github.com/birchal/pdfkit.git",
+    "directory": "@birchal/pdfkit"
   },
-  "bugs": "https://github.com/Simpleprax/pdfkit/issues",
+  "bugs": "https://github.com/birchal/pdfkit/issues",
   "devDependencies": {
     "@babel/core": "^7.11.6",
     "@babel/plugin-external-helpers": "^7.10.4",
