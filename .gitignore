@@ -5,7 +5,6 @@ node-zlib/
 src/
 playground/
 build/
-js/
 .vscode
 coverage
 package-lock.json
