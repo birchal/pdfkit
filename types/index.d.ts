@@ -754,7 +754,7 @@ declare namespace PDFKit {
   }
 }
 
-declare module '@simpleprax/pdfkit/js/data' {
+declare module '@birchal/pdfkit/js/data' {
   var PDFKitData: PDFKit.PDFData;
   export = PDFKitData;
 }
@@ -854,12 +854,12 @@ declare namespace PDFKit {
   }
 }
 
-declare module '@simpleprax/pdfkit' {
+declare module '@birchal/pdfkit' {
   var doc: PDFKit.PDFDocument;
   export = doc;
 }
 
-declare module '@simpleprax/pdfkit/js/gradient' {
+declare module '@birchal/pdfkit/js/gradient' {
   var gradient: {
     PDFGradient: PDFKit.PDFGradient;
     PDFLinearGradient: PDFKit.PDFLinearGradient;
@@ -899,7 +899,7 @@ declare namespace PDFKit {
   }
 }
 
-declare module '@simpleprax/pdfkit/js/page' {
+declare module '@birchal/pdfkit/js/page' {
   var PDFKitPage: PDFKit.PDFPage;
 
   export = PDFKitPage;
@@ -932,43 +932,43 @@ declare namespace PDFKit {
   }
 }
 
-declare module '@simpleprax/pdfkit/js/reference' {
+declare module '@birchal/pdfkit/js/reference' {
   var PDFKitReference: PDFKit.PDFKitReference;
 
   export = PDFKitReference;
 }
 
-declare module '@simpleprax/pdfkit/js/mixins/annotations' {
+declare module '@birchal/pdfkit/js/mixins/annotations' {
   var PDFKitAnnotation: PDFKit.Mixins.PDFAnnotation;
   export = PDFKitAnnotation;
 }
 
-declare module '@simpleprax/pdfkit/js/mixins/attachments' {
+declare module '@birchal/pdfkit/js/mixins/attachments' {
   var PDFAttachment: PDFKit.Mixins.PDFAttachment;
   export = PDFAttachment;
 }
 
-declare module '@simpleprax/pdfkit/js/mixins/color' {
+declare module '@birchal/pdfkit/js/mixins/color' {
   var PDFKitColor: PDFKit.Mixins.PDFColor;
   export = PDFKitColor;
 }
 
-declare module '@simpleprax/pdfkit/js/mixins/fonts' {
+declare module '@birchal/pdfkit/js/mixins/fonts' {
   var PDFKitFont: PDFKit.Mixins.PDFFont;
   export = PDFKitFont;
 }
 
-declare module '@simpleprax/pdfkit/js/mixins/images' {
+declare module '@birchal/pdfkit/js/mixins/images' {
   var PDFKitImage: PDFKit.Mixins.PDFImage;
   export = PDFKitImage;
 }
 
-declare module '@simpleprax/pdfkit/js/mixins/text' {
+declare module '@birchal/pdfkit/js/mixins/text' {
   var PDFKitText: PDFKit.Mixins.PDFText;
   export = PDFKitText;
 }
 
-declare module '@simpleprax/pdfkit/js/mixins/vector' {
+declare module '@birchal/pdfkit/js/mixins/vector' {
   var PDFKitVector: PDFKit.Mixins.PDFVector;
   export = PDFKitVector;
 }

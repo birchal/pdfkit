@@ -1,5 +1,5 @@
 {
-  "name": "@simpleprax/pdfkit",
+  "name": "@birchal/pdfkit",
   "description": "A PDF generation library for Node.js (With some Simpleprax fixes + forked for Birchal)",
   "keywords": [
     "pdf",
